@@ -39,6 +39,6 @@ public class Bmi
 		else if (bodyMassIndex >= 30)
 			{System.out.printf("Obese");}
 
-		else {System.out.printf(" ");}
+		else {System.out.printf("Undetermined");}
 	 }
 }
